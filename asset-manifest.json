@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mealsmate/static/css/main.087ba368.css",
+    "main.js": "/mealsmate/static/js/main.f03b1e5a.js",
+    "static/js/787.621ad6b3.chunk.js": "/mealsmate/static/js/787.621ad6b3.chunk.js",
+    "static/media/logo.jpeg": "/mealsmate/static/media/logo.6d57f4bef762b8180e1b.jpeg",
+    "index.html": "/mealsmate/index.html",
+    "main.087ba368.css.map": "/mealsmate/static/css/main.087ba368.css.map",
+    "main.f03b1e5a.js.map": "/mealsmate/static/js/main.f03b1e5a.js.map",
+    "787.621ad6b3.chunk.js.map": "/mealsmate/static/js/787.621ad6b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087ba368.css",
+    "static/js/main.f03b1e5a.js"
+  ]
+}
