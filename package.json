@@ -1,6 +1,6 @@
 {
-  "homepage": "https://grv24.github.io",
-  "name": "gorv24-profile",
+  "name": "grv24-profile",
+  "homepage": "https://grv24.github.io/mealsmate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
