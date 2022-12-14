@@ -36,7 +36,7 @@ export default function NavBar() {
                 </svg>{" "}
                 <p style={{ fontSize: "x-small", display: "inline" }}>
                   {" "}
-                  Delivering At...
+                  Delivering At..
                 </p>
               </span>
               <p
